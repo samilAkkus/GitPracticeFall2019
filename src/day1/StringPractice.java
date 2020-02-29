@@ -6,4 +6,7 @@ public class StringPractice {
 
         System.out.println("Hello, world!");
     }
+
+    String str = "samil";
+
 }
